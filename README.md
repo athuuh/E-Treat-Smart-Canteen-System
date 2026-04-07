@@ -94,3 +94,9 @@ E-Treat is a smart canteen automation system developed using PHP and MySQL. It a
 
 ### 📑 Admin - Orders
 ![Admin Orders](adminorder.jpeg)
+
+## 👩‍💻 Authors
+- Athulya Binu  
+- Aarya Santhosh  
+- Adithya A.S  
+- Thamara T.S  
