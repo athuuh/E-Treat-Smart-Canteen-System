@@ -3,28 +3,28 @@ E-Treat is a smart canteen automation system developed using PHP and MySQL. It a
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.jpeg)
+![Home](home.jpeg)
 
 ### 🔐 Login Page
-![Login](screenshots/login.jpeg)
+![Login](login.jpeg)
 
 ### 📝 Register Page
-![Register](screenshots/register.jpeg)
+![Register](register.jpeg)
 
 ### 📋 Menu Page
-![Menu](screenshots/menu.jpeg)
+![Menu](menu.jpeg)
 
 ### 🛒 Cart Page
-![Cart](screenshots/cart.jpeg)
+![Cart](cart.jpeg)
 
 ### 💳 Payment Page
-![Payment](screenshots/payment.jpeg)
+![Payment](payment.jpeg)
 
 ### 👨‍💼 Admin Dashboard
-![Admin](screenshots/admin.jpeg)
+![Admin](admin.jpeg)
 
 ### 📦 Admin - View Products
-![Admin View Product](screenshots/admin_view_product.jpeg)
+![Admin View Product](admin_view_product.jpeg)
 
 ### 📑 Admin - Orders
-![Admin Orders](screenshots/adminorder.jpeg)
+![Admin Orders](adminorder.jpeg)
